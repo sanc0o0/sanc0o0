@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey, I'm Sana</h1>
-<h3 align="center">Front-End Developer • BCA Student • Tutor • Future Google Engineer</h3>
+<h3 align="center">Full-Stack Developer • BCA Student • Tutor • Future Google Engineer</h3>
 
 ###
 
