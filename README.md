@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/sanc0o0" target="blank"><img src="https://img.shields.io/twitter/follow/sanc0o0?logo=twitter&style=for-the-badge" alt="sanc0o0" /></a> </p>
 
-- 🔭 I’m currently working on **Promo website**
+- 🔭 I’m currently working on **DomainFLow & SancoDevs**
 
-- 🌱 I’m currently learning **Python for AI/ML**
+- 🌱 I’m currently learning **Domain Architecture & Web Dev**
 
 - 🤝 I’m looking for help with **Production Team**
 
